@@ -1,0 +1,23 @@
+{
+  "name": "bundler-live",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bundler.js",
+  "type": "module",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amkhrjee",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.5",
+    "prettier": "^3.2.5"
+  },
+  "dependencies": {
+    "babel-traverse": "^6.26.0",
+    "babylon": "^6.18.0"
+  }
+}
