@@ -13,10 +13,12 @@
   "author": "amkhrjee",
   "license": "ISC",
   "devDependencies": {
+    "@babel/preset-env": "^7.24.4",
     "@types/node": "^20.12.5",
     "prettier": "^3.2.5"
   },
   "dependencies": {
+    "@babel/core": "^7.24.4",
     "babel-traverse": "^6.26.0",
     "babylon": "^6.18.0"
   }
